@@ -5,15 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=lokitharachchige&label=Profile%20views&color=0e75b6&style=flat" alt="lokitharachchige" /> 
 </p>
 
----
+--- 
 
 <table align="center">
 <tr border="none">
 <td width="50%" height="40%" align="left">
   
-- 🌱 I’m currently learning **Springboot, Python, Java**
+- 🌱 I’m currently learning ** Springboot, Python, Java**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
+- 💬 Ask me about ** HTML, CSS, JavaScript, Python**
 
 - 📫 How to reach me **galokith@gmail.com**
 
