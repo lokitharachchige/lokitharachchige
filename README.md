@@ -5,21 +5,21 @@
   <img src="https://komarev.com/ghpvc/?username=lokitharachchige&label=Profile%20views&color=0e75b6&style=flat" alt="lokitharachchige" /> 
 </p>
 
---- 
+---
 
 <table align="center">
 <tr border="none">
 <td width="50%" height="40%" align="left">
   
-- 🌱 I’m currently learning ** Springboot, Python, Java**
+- 🌱 I’m currently learning **Springboot, Python, Java**
 
-- 💬 Ask me about ** HTML, CSS, JavaScript, Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python**
 
 - 📫 How to reach me **galokith@gmail.com**
 
 </td>
 <td width="50%" align="center">
-  <img align="right" alt="Coding" width="450" src="https://br.pinterest.com/pin/556898310164600916/">
+  <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/56/98/31/5698316a7509c49d59ec5c1edc9fdb74.gif">
 </td>
 </tr>
 </table>
