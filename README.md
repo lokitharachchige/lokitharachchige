@@ -19,7 +19,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/56/98/31/5698316a7509c49d59ec5c1edc9fdb74.gif">
+  <img align="right" alt="Coding" width="450" src="cdn.dribbble.com/users/891352/screenshots/2816929/media/27ec9ed3286c2c38610a4d9369e73358.gif">
 </td>
 </tr>
 </table>
